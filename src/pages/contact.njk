@@ -1,0 +1,95 @@
+---
+title: Contact
+layout: layouts/base.njk
+permalink: /contact/
+eleventyNavigation:
+  key: Contact
+  order: 3
+---
+
+<div class="flex flex-row">
+  <div class="w-1/2 p-4">
+    <h2 class="text-xl">{{ contact.manager.company }}</h2>
+
+    <div>
+      <div class="py-2">
+        <strong>Community Manager</strong><br/>
+        {{ contact.manager.name }}<br/>
+        <a href="mailto:{{ contact.manager.email }}">{{ contact.manager.email }}</a><br/>
+      </div>
+      <div class="py-2">
+        <strong>Community Portal</strong><br/>
+        <a href="{{ contact.manager.resident_portal }}">{{ contact.manager.resident_portal }}</a><br/>
+      </div>
+      <div class="py-2">
+        <strong>Woodbridge Office</strong><br/>
+        <address>{{ contact.manager.woodbridge_address }}</address>
+        <p>Phone: <phone>{{ contact.manager.woodbridge_phone }}</phone></p>
+        <p>Hours: {{ contact.manager.woodbridge_hours }}</p>
+      </div>
+
+      <div class="py-2">
+        <strong>Main Office</strong><br/>
+        <address>{{ contact.manager.fairfax_address }}</address>
+        <p>Phone: <phone>{{ contact.manager.fairfax_phone }}</phone></p>
+      </div>
+    </div>
+
+    <div class="py-6">
+      <hr />
+    </div>
+
+    <h2 class="text-xl">Useful Numbers</h2>
+    <div class="flex flex-col space-y-2">
+      {% for item in contact.useful_numbers %}
+      <div>
+        <strong>{{ item.label }}</strong><br/>
+        <phone>{{ item.number }}</phone>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+  <div class="w-1/2 p-4">
+    <h2 class="text-xl">Board of Directors</h2>
+    <div class="flex flex-col space-y-2">
+      {% for item in contact.board_of_directors %}
+      <div>
+        <strong>{{ item.position }}</strong><br/>
+        {{ item.name }}
+      </div>
+      {% endfor %}
+    </div>
+
+    <div class="py-6">
+      <hr />
+    </div>
+
+    <div class="flex flex-col space-y-2">
+      <h2 class="text-xl">Committee Chairs</h2>
+      {% for item in contact.committees %}
+      <div>
+        <strong>{{ item.name }}</strong><br/>
+        {{ item.lead }}
+      </div>
+      {% endfor %}
+    </div>
+
+    <div class="py-6">
+      <hr />
+    </div>
+
+    <h2 class="text-xl">Board Contact / Email Addresses</h2>
+    <div>
+      <p>
+      The board only meets once a month (on the 4th Wednesday, see our <a href="/pages/meetings">Meetings Page</a>) so the fastest way to get resolution or clarification on something is calling the Management Company or contacting one of the emails below.
+      </p>
+    </div>
+
+    <div>
+      <ul>
+        <li>Main board email: <a href="mailto:{{ contact.board_email }}">{{ contact.board_email }}</a></li>
+        <li>Architectural Review Committee: <a href="mailto:{{ contact.arc_email }}">{{ contact.arc_email }}</a></li>
+      </ul>
+    </div>
+  </div>
+</div>

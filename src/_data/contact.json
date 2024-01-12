@@ -1,0 +1,90 @@
+{
+  "board_email": "board@twinoaksfarmhoa.com",
+  "arc_email": "arb@twinoaksfarmhoa.com",
+  "manager": {
+    "company": "Gates Hudson Community Management",
+    "name": "Jennifer Cline",
+    "email": "JCline@ghacm.com",
+    "fairfax_address": "3020 Hamaker Court, Suite 300, Fairfax, VA 22031",
+    "fairfax_phone": "703-752-8300 x758",
+    "woodbridge_address": "3421 Commission Ct, Suite 201, Woodbridge, VA 22192",
+    "woodbridge_hours": "Monday - Friday, 8:30am - 5:00pm",
+    "woodbridge_phone": "703-752-8303 x758",
+    "website": "http://www.ghacm.com",
+    "resident_portal": "https://portal.ghacm.com/home_v2/Login"
+  },
+  "board_of_directors": [
+    {
+      "name": "Mike Blas",
+      "position": "President"
+    },
+    {
+      "name": "Nick Hamlin",
+      "position": "Vice President"
+    },
+    {
+      "name": "Cyndi Fillinger",
+      "position": "Treasurer"
+    },
+    {
+      "name": "Cyndi Fillinger",
+      "position": "Secretary"
+    },
+    {
+      "name": "Caitlin Sharp",
+      "position": "At Large"
+    },
+    {
+      "name": "Suni Smith",
+      "position": "At Large"
+    },
+    {
+      "name": "Jeff Schoolcraft",
+      "position": "At Large"
+    }
+  ],
+  "committees": [
+    {
+      "name": "Pool-Recreation",
+      "lead": "Mike Blas"
+    },
+    {
+      "name": "Pool Clubhouse Rental",
+      "lead": "Mike Blas"
+    },
+    {
+      "name": "ARC Liason",
+      "lead": "Imke White"
+    },
+    {
+      "name": "Website / Communications",
+      "lead": "Jeff Schoolcraft"
+    },
+    {
+      "name": "Grounds",
+      "lead": "Dave and Anna Mattingly"
+    },
+    {
+      "name": "Social",
+      "lead": "Suni Smith"
+    }
+  ],
+  "useful_numbers": [
+    {
+      "label": "Disposal Services, LLC",
+      "number": "703-441-1111"
+    },
+    {
+      "label": "VDOT - Snow Removal",
+      "number": "703-383-8368"
+    },
+    {
+      "label": "PWC Police: Non-emergency",
+      "number": "703-792-6500"
+    },
+    {
+      "label": "Occoquan District Supervisor",
+      "number": "703-792-4643"
+    }
+  ]
+}

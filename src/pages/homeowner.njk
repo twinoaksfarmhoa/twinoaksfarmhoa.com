@@ -1,0 +1,92 @@
+---
+title: Homeowners Information
+layout: layouts/base.njk
+permalink: /homeowners/
+eleventyNavigation:
+  key: Homeowners
+  order: 4
+---
+
+<div class="flex flex-row">
+  <div class="w-1/2 p-4 flex flex-col space-y-2">
+
+    <h2 class="text-2xl">Homeowner Portal</h2>
+    <div class="py-2">
+      <a href="{{ contact.manager.resident_portal }}">{{ contact.manager.resident_portal }}</a><br/>
+    </div>
+
+    <div class="py-6">
+      <hr />
+    </div>
+    <h2 class="text-2xl">Homeowner Documents</h2>
+    <div>
+      <a href="">Twin Oaks Farm Amended and Restated By-Laws</a>. This notarized
+      version takes the original By-Laws and incorporates all amendments to date
+      (as of 1 September 2023).
+    </div>
+
+    <div>
+      <a href="">Twin Oaks Farm Reisdents Handbook</a> up to date as of May 2019.
+    </div>
+
+    <div>
+      <a href="">Architectural Improvement Request Form</a>
+    </div>
+
+    <div class="py-6">
+      <hr />
+    </div>
+
+    <h2 class="text-2xl">Architectural Review Board</h2>
+    <div>Any modifications made to your property should be approved and recorded with the Architectural Review Board.</div>
+    <div>
+      <a href="">Architectural Improvement Request Form</a>
+    </div>
+
+    <div class="py-6">
+      <hr />
+    </div>
+
+    <h2 class="text-2xl">Pool Information</h2>
+    <div>
+      <ul class="py-2">
+        <li><a href="">Pool Rules</a> Last revised: 2019.</li>
+        <li><a href="">Pool Application</a> Last revised: 2019.</li>
+        <li><a href="">Online form for pool pass <strong>renewal</strong> only.</a></li>
+        <li><a href="">TOF Pool House Rental Form</a> Last revised: 2019.</li>
+      </ul>
+
+      <div class="text-xl">Completed Applications should be mailed to:</div>
+      <p>
+      {{ contact.manager.company }}<br/>
+      <address>{{ contact.manager.woodbridge_address }}</address>
+      </p>
+    </div>
+  </div>
+  <div class="w-1/2 p-4 flex flex-col space-y-2">
+    <div>
+      <h2 class="text-2xl">HOA Meetings</h2>
+      <p> The Twin Oaks Farm Board of Directors hold a meeting on the <strong>fourth (4th) Wednesday of every month at 7:00pm</strong> with the annual meeting occurring in May.
+      </p>
+
+      <p>
+      Meetings are held at our neighborhood community room:
+      <address>2799 White Birch Court, Woodbridge VA 22192</address>
+      </p>
+
+      <p>Homeowners are welcomed and encouraged to join us.</p>
+    </div>
+
+
+    <div class="py-6">
+      <hr />
+    </div>
+
+    <h2 class="text-2xl">Past Meeting Minutes</h2>
+
+    {% for item in minutes.years %}
+    <h3 class="text-xl"><a href="/minutes/{{item.year | slugify}}/">{{ item.year }}</a></h3>
+    {% endfor %}
+
+  </div>
+</div>
