@@ -1,117 +1,47 @@
 {
   "years": [
     {
-      "year": "2024",
-      "minutes": [
-        {
-          "title": "January 2024",
-          "link": "#"
-        }
-      ]
-    },
-    {
-      "year": "2023",
-      "minutes": [
-        {
-          "title": "December 2023 - no meeting",
-          "link": ""
-        },
-        {
-          "title": "November 2023 - via Zoom",
-          "link": "#"
-        },
-        {
-          "title": "October 2023 - via Zoom",
-          "link": "#"
-        },
-        {
-          "title": "September 2023 - via Zoom",
-          "link": "#"
-        },
-        {
-          "title": "August 2023 - no meeting",
-          "link": ""
-        },
-        {
-          "title": "July 2023 - via Zoom",
-          "link": "#"
-        },
-        {
-          "title": "June 2023 - via Zoom",
-          "link": "#"
-        },
-        {
-          "title": "May 2023 - via Zoom",
-          "link": "#"
-        },
-        {
-          "title": "April 2023 - no meeting",
-          "link": ""
-        },
-        {
-          "title": "March 2023 - via Zoom",
-          "link": "#"
-        },
-        {
-          "title": "February 2023 - via Zoom",
-          "link": "#"
-        },
-        {
-          "title": "January 2023 - via Zoom",
-          "link": "#"
-        }
-      ]
-    },
-    {
       "year": "2022",
       "minutes": [
         {
-          "title": "December 2022 - no meeting",
-          "link": ""
+          "title": "January 2022",
+          "link": "/docs/minutes/2022-01.pdf"
         },
         {
-          "title": "November 2022 - via Zoom",
-          "link": "#"
+          "title": "February 2022",
+          "link": "/docs/minutes/2022-02.pdf"
         },
         {
-          "title": "October 2022 - via Zoom",
-          "link": "#"
+          "title": "March 2022",
+          "link": "/docs/minutes/2022-03.pdf"
         },
         {
-          "title": "September 2022 - via Zoom",
-          "link": "#"
+          "title": "April 2022",
+          "link": "/docs/minutes/2022-04.pdf"
         },
         {
-          "title": "August 2022 - no meeting",
-          "link": ""
+          "title": "June 2022",
+          "link": "/docs/minutes/2022-06.pdf"
         },
         {
-          "title": "July 2022 - via Zoom",
-          "link": "#"
+          "title": "July 2022",
+          "link": "/docs/minutes/2022-07.pdf"
         },
         {
-          "title": "June 2022 - via Zoom",
-          "link": "#"
+          "title": "August 2022",
+          "link": "/docs/minutes/2022-08.pdf"
         },
         {
-          "title": "May 2022 - via Zoom",
-          "link": "#"
+          "title": "September 2022",
+          "link": "/docs/minutes/2022-09.pdf"
         },
         {
-          "title": "April 2022 - no meeting",
-          "link": ""
+          "title": "October 2022",
+          "link": "/docs/minutes/2022-10.pdf"
         },
         {
-          "title": "March 2022 - via Zoom",
-          "link": "#"
-        },
-        {
-          "title": "February 2022 - via Zoom",
-          "link": "#"
-        },
-        {
-          "title": "January 2022 - via Zoom",
-          "link": "#"
+          "title": "November 2022",
+          "link": "/docs/minutes/2022-11.pdf"
         }
       ]
     },
@@ -119,52 +49,32 @@
       "year": "2021",
       "minutes": [
         {
-          "title": "December 2021 - no meeting",
-          "link": ""
+          "title": "January 2021",
+          "link": "/docs/minutes/2021-01.pdf"
         },
         {
-          "title": "November 2021 - via Zoom",
-          "link": "#"
+          "title": "March 2021",
+          "link": "/docs/minutes/2021-03.pdf"
         },
         {
-          "title": "October 2021 - via Zoom",
-          "link": "#"
+          "title": "May 2021",
+          "link": "/docs/minutes/2021-05.pdf"
         },
         {
-          "title": "September 2021 - via Zoom",
-          "link": "#"
+          "title": "June 2021",
+          "link": "/docs/minutes/2021-06.pdf"
         },
         {
-          "title": "August 2021 - no meeting",
-          "link": ""
+          "title": "July 2021",
+          "link": "/docs/minutes/2021-07.pdf"
         },
         {
-          "title": "July 2021 - via Zoom",
-          "link": "#"
+          "title": "October 2021",
+          "link": "/docs/minutes/2021-10.pdf"
         },
         {
-          "title": "June 2021 - via Zoom",
-          "link": "#"
-        },
-        {
-          "title": "May 2021 - via Zoom",
-          "link": "#"
-        },
-        {
-          "title": "April 2021 - no meeting",
-          "link": ""
-        },
-        {
-          "title": "March 2021 - via Zoom",
-          "link": "#"
-        },
-        {
-          "title": "February 2021 - via Zoom",
-          "link": "#"
-        },
-        {
-          "title": "January 2021 - via Zoom",
-          "link": "#"
+          "title": "November 2021",
+          "link": "/docs/minutes/2021-11.pdf"
         }
       ]
     },
@@ -172,52 +82,40 @@
       "year": "2020",
       "minutes": [
         {
-          "title": "December 2020 - no meeting",
-          "link": ""
+          "title": "January 2020",
+          "link": "/docs/minutes/2020-01.pdf"
         },
         {
-          "title": "November 2020 - via Zoom",
-          "link": "#"
+          "title": "March 2020",
+          "link": "/docs/minutes/2020-03.pdf"
         },
         {
-          "title": "October 2020 - via Zoom",
-          "link": "#"
+          "title": "April 2020",
+          "link": "/docs/minutes/2020-04.pdf"
         },
         {
-          "title": "September 2020 - via Zoom",
-          "link": "#"
+          "title": "May 2020",
+          "link": "/docs/minutes/2020-05.pdf"
         },
         {
-          "title": "August 2020 - no meeting",
-          "link": ""
+          "title": "June 2020",
+          "link": "/docs/minutes/2020-06.pdf"
         },
         {
-          "title": "July 2020 - via Zoom",
-          "link": "#"
+          "title": "July 2020",
+          "link": "/docs/minutes/2020-07.pdf"
         },
         {
-          "title": "June 2020 - via Zoom",
-          "link": "#"
+          "title": "September 2020",
+          "link": "/docs/minutes/2020-09.pdf"
         },
         {
-          "title": "May 2020 - via Zoom",
-          "link": "#"
+          "title": "October 2020",
+          "link": "/docs/minutes/2020-10.pdf"
         },
         {
-          "title": "April 2020 - no meeting",
-          "link": ""
-        },
-        {
-          "title": "March 2020 - via Zoom",
-          "link": "#"
-        },
-        {
-          "title": "February 2020 - via Zoom",
-          "link": "#"
-        },
-        {
-          "title": "January 2020 - via Zoom",
-          "link": "#"
+          "title": "November 2020",
+          "link": "/docs/minutes/2020-11.pdf"
         }
       ]
     },
@@ -225,52 +123,275 @@
       "year": "2019",
       "minutes": [
         {
-          "title": "December 2019 - no meeting",
-          "link": ""
+          "title": "January 2019",
+          "link": "/docs/minutes/2019-01.pdf"
         },
         {
-          "title": "November 2019 - via Zoom",
-          "link": "#"
+          "title": "February 2019",
+          "link": "/docs/minutes/2019-02.pdf"
         },
         {
-          "title": "October 2019 - via Zoom",
-          "link": "#"
+          "title": "March 2019",
+          "link": "/docs/minutes/2019-03.pdf"
         },
         {
-          "title": "September 2019 - via Zoom",
-          "link": "#"
+          "title": "April 2019",
+          "link": "/docs/minutes/2019-04.pdf"
         },
         {
-          "title": "August 2019 - no meeting",
-          "link": ""
+          "title": "June 2019",
+          "link": "/docs/minutes/2019-06.pdf"
         },
         {
-          "title": "July 2019 - via Zoom",
-          "link": "#"
+          "title": "July 2019",
+          "link": "/docs/minutes/2019-07.pdf"
         },
         {
-          "title": "June 2019 - via Zoom",
-          "link": "#"
+          "title": "August 2019",
+          "link": "/docs/minutes/2019-08.pdf"
         },
         {
-          "title": "May 2019 - via Zoom",
-          "link": "#"
+          "title": "September 2019",
+          "link": "/docs/minutes/2019-09.pdf"
         },
         {
-          "title": "April 2019 - no meeting",
-          "link": ""
+          "title": "November 2019",
+          "link": "/docs/minutes/2019-11.pdf"
+        }
+      ]
+    },
+    {
+      "year": "2018",
+      "minutes": [
+        {
+          "title": "February 2018",
+          "link": "/docs/minutes/2018-02.pdf"
         },
         {
-          "title": "March 2019 - via Zoom",
-          "link": "#"
+          "title": "March 2018",
+          "link": "/docs/minutes/2018-03.pdf"
         },
         {
-          "title": "February 2019 - via Zoom",
-          "link": "#"
+          "title": "June 2018",
+          "link": "/docs/minutes/2018-06.pdf"
         },
         {
-          "title": "January 2019 - via Zoom",
-          "link": "#"
+          "title": "July 2018",
+          "link": "/docs/minutes/2018-07.pdf"
+        },
+        {
+          "title": "August 2018",
+          "link": "/docs/minutes/2018-08.pdf"
+        },
+        {
+          "title": "October 2018",
+          "link": "/docs/minutes/2018-10.pdf"
+        },
+        {
+          "title": "November 2018",
+          "link": "/docs/minutes/2018-11.pdf"
+        }
+      ]
+    },
+    {
+      "year": "2017",
+      "minutes": [
+        {
+          "title": "January 2017",
+          "link": "/docs/minutes/2017-01.pdf"
+        },
+        {
+          "title": "February 2017",
+          "link": "/docs/minutes/2017-02.pdf"
+        },
+        {
+          "title": "April 2017",
+          "link": "/docs/minutes/2017-04.pdf"
+        },
+        {
+          "title": "May 2017",
+          "link": "/docs/minutes/2017-05.pdf"
+        },
+        {
+          "title": "July 2017",
+          "link": "/docs/minutes/2017-07.pdf"
+        },
+        {
+          "title": "November 2017",
+          "link": "/docs/minutes/2017-11.pdf"
+        }
+      ]
+    },
+    {
+      "year": "2016",
+      "minutes": [
+        {
+          "title": "January 2016",
+          "link": "/docs/minutes/2016-01.pdf"
+        },
+        {
+          "title": "February 2016",
+          "link": "/docs/minutes/2016-02.pdf"
+        },
+        {
+          "title": "March 2016",
+          "link": "/docs/minutes/2016-03.pdf"
+        },
+        {
+          "title": "May 2016",
+          "link": "/docs/minutes/2016-05.pdf"
+        },
+        {
+          "title": "June 2016",
+          "link": "/docs/minutes/2016-06.pdf"
+        },
+        {
+          "title": "July 2016",
+          "link": "/docs/minutes/2016-07.pdf"
+        },
+        {
+          "title": "August 2016",
+          "link": "/docs/minutes/2016-08.pdf"
+        },
+        {
+          "title": "September 2016",
+          "link": "/docs/minutes/2016-09.pdf"
+        }
+      ]
+    },
+    {
+      "year": "2015",
+      "minutes": [
+        {
+          "title": "January 2015",
+          "link": "/docs/minutes/2015-01.pdf"
+        },
+        {
+          "title": "March 2015",
+          "link": "/docs/minutes/2015-03.pdf"
+        },
+        {
+          "title": "April 2015",
+          "link": "/docs/minutes/2015-04.pdf"
+        },
+        {
+          "title": "May 2015",
+          "link": "/docs/minutes/2015-05.pdf"
+        },
+        {
+          "title": "June 2015",
+          "link": "/docs/minutes/2015-06.pdf"
+        },
+        {
+          "title": "July 2015",
+          "link": "/docs/minutes/2015-07.pdf"
+        },
+        {
+          "title": "August 2015",
+          "link": "/docs/minutes/2015-08.pdf"
+        },
+        {
+          "title": "September 2015",
+          "link": "/docs/minutes/2015-09.pdf"
+        },
+        {
+          "title": "October 2015",
+          "link": "/docs/minutes/2015-10.pdf"
+        },
+        {
+          "title": "November 2015",
+          "link": "/docs/minutes/2015-11.pdf"
+        }
+      ]
+    },
+    {
+      "year": "2014",
+      "minutes": [
+        {
+          "title": "January 2014",
+          "link": "/docs/minutes/2014-01.pdf"
+        },
+        {
+          "title": "February 2014",
+          "link": "/docs/minutes/2014-02.pdf"
+        },
+        {
+          "title": "March 2014",
+          "link": "/docs/minutes/2014-03.pdf"
+        },
+        {
+          "title": "April 2014",
+          "link": "/docs/minutes/2014-04.pdf"
+        },
+        {
+          "title": "May 2014",
+          "link": "/docs/minutes/2014-05.pdf"
+        },
+        {
+          "title": "June 2014",
+          "link": "/docs/minutes/2014-06.pdf"
+        },
+        {
+          "title": "July 2014",
+          "link": "/docs/minutes/2014-07.pdf"
+        },
+        {
+          "title": "August 2014",
+          "link": "/docs/minutes/2014-08.pdf"
+        },
+        {
+          "title": "September 2014",
+          "link": "/docs/minutes/2014-09.pdf"
+        },
+        {
+          "title": "October 2014",
+          "link": "/docs/minutes/2014-10.pdf"
+        },
+        {
+          "title": "November 2014",
+          "link": "/docs/minutes/2014-11.pdf"
+        },
+        {
+          "title": "December 2014",
+          "link": "/docs/minutes/2014-12.pdf"
+        }
+      ]
+    },
+    {
+      "year": "2013",
+      "minutes": [
+        {
+          "title": "June 2013",
+          "link": "/docs/minutes/2013-06.pdf"
+        },
+        {
+          "title": "July 2013",
+          "link": "/docs/minutes/2013-07.pdf"
+        },
+        {
+          "title": "August 2013",
+          "link": "/docs/minutes/2013-08.pdf"
+        },
+        {
+          "title": "September 2013",
+          "link": "/docs/minutes/2013-09.pdf"
+        },
+        {
+          "title": "October 2013",
+          "link": "/docs/minutes/2013-10.pdf"
+        },
+        {
+          "title": "November 2013",
+          "link": "/docs/minutes/2013-11.pdf"
+        }
+      ]
+    },
+    {
+      "year": "2009",
+      "minutes": [
+        {
+          "title": "September 2009",
+          "link": "/docs/minutes/2009-09.pdf"
         }
       ]
     }
