@@ -66,17 +66,5 @@ eleventyNavigation:
 
       <p>Homeowners are welcomed and encouraged to join us.</p>
     </div>
-
-
-    <div class="py-6">
-      <hr />
-    </div>
-
-    <h2 class="text-2xl">Past Meeting Minutes</h2>
-
-    {% for item in minutes.years %}
-    <h3 class="text-xl"><a href="/minutes/{{item.year | slugify}}/">{{ item.year }}</a></h3>
-    {% endfor %}
-
   </div>
 </div>
