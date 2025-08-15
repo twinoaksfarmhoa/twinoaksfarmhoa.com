@@ -2,16 +2,16 @@
   "board_email": "board@twinoaksfarmhoa.com",
   "arc_email": "arb@twinoaksfarmhoa.com",
   "manager": {
-    "company": "Gates Hudson Community Management",
-    "name": "Jennifer Cline",
-    "email": "JCline@ghacm.com",
-    "fairfax_address": "3020 Hamaker Court, Suite 300, Fairfax, VA 22031",
+    "woodbridge_phone": "703-752-8303 x758",
+    "woodbridge_hours": "Monday - Friday, 8:30am - 5:00pm",
     "fairfax_phone": "703-752-8300 x758",
     "woodbridge_address": "3421 Commission Ct, Suite 201, Woodbridge, VA 22192",
-    "woodbridge_hours": "Monday - Friday, 8:30am - 5:00pm",
-    "woodbridge_phone": "703-752-8303 x758",
+    "name": "Jennifer Cline",
+    "fairfax_address": "3020 Hamaker Court, Suite 300, Fairfax, VA 22031",
     "website": "http://www.ghacm.com",
-    "resident_portal": "https://portal.ghacm.com/home_v2/Login"
+    "resident_portal": "https://portal.ghacm.com/home_v2/Login",
+    "email": "JCline@ghacm.com",
+    "company": "Gates Hudson Community Management"
   },
   "board_of_directors": [
     {
@@ -35,7 +35,7 @@
       "position": "At Large"
     },
     {
-      "name": "Jeff Schoolcraft",
+      "name": "Jeffrey Schoolcraft",
       "position": "At Large"
     }
   ],
