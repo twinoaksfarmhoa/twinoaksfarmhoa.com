@@ -1,6 +1,9 @@
 backend:
-  name: git-gateway
+  name: github
+  repo: twinoaksfarmhoa/twinoaksfarmhoa.com
   branch: main
+  base_url: https://api.netlify.com
+  auth_endpoint: auth
 
 media_folder: "src/docs"
 public_folder: "/docs"
