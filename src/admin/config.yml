@@ -1,0 +1,69 @@
+backend:
+  name: github
+  repo: twinoaksfarmhoa/twinoaksfarmhoa.com
+  branch: main
+  base_url: https://api.netlify.com
+  auth_endpoint: auth
+
+media_folder: "src/docs"
+public_folder: "/docs"
+
+collections:
+  - name: "data"
+    label: "Site Data"
+    files:
+      - name: "contact"
+        label: "Contact Information"
+        file: "src/_data/contact.json"
+        fields:
+          - label: "Board Email"
+            name: "board_email"
+            widget: "string"
+          - label: "ARC Email"
+            name: "arc_email"
+            widget: "string"
+          - label: "Management Company"
+            name: "manager"
+            widget: "object"
+            fields:
+              - { label: "Company Name", name: "company", widget: "string" }
+              - { label: "Manager Name", name: "name", widget: "string" }
+              - { label: "Email", name: "email", widget: "string" }
+              - { label: "Fairfax Address", name: "fairfax_address", widget: "text" }
+              - { label: "Fairfax Phone", name: "fairfax_phone", widget: "string" }
+              - { label: "Woodbridge Address", name: "woodbridge_address", widget: "text" }
+              - { label: "Woodbridge Hours", name: "woodbridge_hours", widget: "string" }
+              - { label: "Woodbridge Phone", name: "woodbridge_phone", widget: "string" }
+              - { label: "Website", name: "website", widget: "string" }
+              - { label: "Resident Portal", name: "resident_portal", widget: "string" }
+          - label: "Board of Directors"
+            name: "board_of_directors"
+            widget: "list"
+            fields:
+              - { label: "Name", name: "name", widget: "string" }
+              - { label: "Position", name: "position", widget: "select", options: ["President", "Vice President", "Treasurer", "Secretary", "Treasurer / Secretary", "At Large"] }
+          - label: "Committees"
+            name: "committees"
+            widget: "list"
+            fields:
+              - { label: "Committee Name", name: "name", widget: "string" }
+              - { label: "Committee Lead", name: "lead", widget: "string" }
+          - label: "Useful Numbers"
+            name: "useful_numbers"
+            widget: "list"
+            fields:
+              - { label: "Service/Organization", name: "label", widget: "string" }
+              - { label: "Phone Number", name: "number", widget: "string" }
+
+  - name: "documents"
+    label: "Documents"
+    folder: "src/docs"
+    create: true
+    slug: "{{slug}}"
+    media_folder: ""
+    public_folder: "/docs"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Document", name: "document", widget: "file" }
+      - { label: "Description", name: "description", widget: "text", required: false }
+      - { label: "Category", name: "category", widget: "select", options: ["Pool Rules", "HOA Documents", "Forms", "Other"] }
